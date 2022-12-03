@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://kanglcn.github.io',
                 'git_url': 'https://github.com/kanglcn/hotpot',
                 'lib_path': 'hotpot'},
-  'syms': {'hotpot.core': {'hotpot.core.foo': ('core.html#foo', 'hotpot/core.py')}}}
+  'syms': { 'hotpot.template': { 'hotpot.template._cu_window_sum_2d': ('template.html#_cu_window_sum_2d', 'hotpot/template.py'),
+                                 'hotpot.template._window_sum_2d': ('template.html#_window_sum_2d', 'hotpot/template.py'),
+                                 'hotpot.template.cu_match_template': ('template.html#cu_match_template', 'hotpot/template.py'),
+                                 'hotpot.template.match_template': ('template.html#match_template', 'hotpot/template.py')}}}
