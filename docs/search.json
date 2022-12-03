@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "hotpot",
+    "section": "How to use",
+    "text": "How to use"
+  },
+  {
+    "objectID": "template.html",
+    "href": "template.html",
+    "title": "template",
+    "section": "",
+    "text": "source\n\nmatch_template\n\n match_template (image:numpy.ndarray, template:numpy.ndarray)\n\n\n\n\n\nType\nDetails\n\n\n\n\nimage\nndarray\nreference image(s)\n\n\ntemplate\nndarray\ntemplate image(s)\n\n\n\n\nsource\n\n\ncu_match_template\n\n cu_match_template (image:cupy.ndarray, template:cupy.ndarray)\n\n\n\n\n\nType\nDetails\n\n\n\n\nimage\nndarray\nreference image(s) in cupy array\n\n\ntemplate\nndarray\ntemplate image(s) in cupy array"
+  }
+]
