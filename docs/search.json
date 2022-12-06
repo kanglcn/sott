@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hotpot",
+    "section": "",
+    "text": "hotpot is for deformation estimation from amplitude of SAR images or optical images."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "hotpot",
+    "section": "Install",
+    "text": "Install\n``` conda install -c conda-forge hotpot"
+  },
+  {
     "objectID": "index.html#how-to-use",
     "href": "index.html#how-to-use",
     "title": "hotpot",
