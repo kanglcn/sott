@@ -2,8 +2,8 @@ project:
   output-dir: docs
 
 website:
-  title: "hot-pot"
-  site-url: "https://kanglcn.github.io/hot-pot"
+  title: "sott"
+  site-url: "https://kanglcn.github.io/sott"
   description: "Handy Pixel Offset Tracking tools"
   repo-branch: main
-  repo-url: "https://github.com/kanglcn/hot-pot"
+  repo-url: "https://github.com/kanglcn/sott"
