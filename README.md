@@ -16,5 +16,5 @@ images or optical images.
 import sott as ot
 ```
 
-Please refer to the [Documentation](https://kanglcn.github.io/hot-pot)
-for detailed usage.
+Please refer to the [Documentation](https://kanglcn.github.io/sott) for
+detailed usage.
