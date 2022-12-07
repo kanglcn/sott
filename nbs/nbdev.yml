@@ -4,6 +4,6 @@ project:
 website:
   title: "sott"
   site-url: "https://kanglcn.github.io/sott"
-  description: "Handy Pixel Offset Tracking tools"
+  description: "Simple Offset Tracking Tool"
   repo-branch: main
   repo-url: "https://github.com/kanglcn/sott"
