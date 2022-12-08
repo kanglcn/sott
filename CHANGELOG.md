@@ -2,6 +2,9 @@
 
 <!-- do not remove -->
 
+## 0.0.5
+
+
 ## 0.0.4
 
 ### Features improved
