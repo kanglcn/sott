@@ -2,35 +2,35 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sott",
+    "title": "Sott",
     "section": "",
     "text": "sott implements pixel offset tracking method based on amplitude of SAR images or optical images."
   },
   {
     "objectID": "index.html#install",
     "href": "index.html#install",
-    "title": "sott",
+    "title": "Sott",
     "section": "Install",
     "text": "Install\nWith conda:\nconda install -c conda-forge sott\nWith pip:\npip install sott\nIn development mode:\ngit clone git@github.com:kanglcn/sott.git ./sott\ncd ./sott\npip install -e '.[dev]'"
   },
   {
     "objectID": "index.html#how-to-use",
     "href": "index.html#how-to-use",
-    "title": "sott",
+    "title": "Sott",
     "section": "How to use",
     "text": "How to use\n\nimport sott as ot\n\nPlease refer to the Documentation for detailed usage."
   },
   {
     "objectID": "index.html#contact-us",
     "href": "index.html#contact-us",
-    "title": "sott",
+    "title": "Sott",
     "section": "Contact us",
     "text": "Contact us\n\nMost discussion happens on GitHub. Feel free to open an issue or comment on any open issue or pull request.\nuse github discussions to ask questions or leave comments."
   },
   {
     "objectID": "index.html#contribution",
     "href": "index.html#contribution",
-    "title": "sott",
+    "title": "Sott",
     "section": "Contribution",
     "text": "Contribution\n\nPull requests are welcomed! Before making a pull request, please open an issue to talk about it.\nWe have notice many excellent open-source packages are rarely paid attention to due to lake of documentation. The package is developed with the nbdev, a notebook-driven development platform. Developers only needs to simply write notebooks with lightweight markup and get high-quality documentation, tests, continuous integration, and packaging automatically."
   },
