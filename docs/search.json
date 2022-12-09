@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sott",
     "section": "",
-    "text": "sott implements pixel offset tracking method based on amplitude of SAR images or optical images."
+    "text": "Simple Pixel Offset Tracking Tool\nDocumentation\nsott implements pixel offset tracking method based on amplitude of SAR images or optical images."
   },
   {
     "objectID": "index.html#install",

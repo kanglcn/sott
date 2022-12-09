@@ -5,6 +5,8 @@ Sott
 
 > Simple Pixel Offset Tracking Tool
 
+[Documentation](https://kanglcn.github.io/sott)
+
 <!-- Note, when copy image url, manually set the image suffix as svg because pandoc set the default image format as png -->
 
 [![GitHub](https://img.shields.io/github/license/kanglcn/sott.svg?color=g)](https://github.com/kanglcn/sott/blob/main/LICENSE)
