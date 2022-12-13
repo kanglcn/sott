@@ -14,7 +14,6 @@ Sott
 [![PyPI](https://img.shields.io/pypi/v/sott.svg)](https://pypi.org/project/sott/)
 [![PythonVersion](https://img.shields.io/pypi/pyversions/sott.svg?color=blue)](https://pypi.org/project/sott/)
 
-
 `sott` implements pixel offset tracking method based on amplitude of SAR
 images or optical images.
 
@@ -22,17 +21,23 @@ images or optical images.
 
 With conda:
 
-    conda install -c conda-forge sott
+``` bash
+conda install -c conda-forge sott
+```
 
 With pip:
 
-    pip install sott
+``` bash
+pip install sott
+```
 
 In development mode:
 
-    git clone git@github.com:kanglcn/sott.git ./sott
-    cd ./sott
-    pip install -e '.[dev]'
+``` bash
+git clone git@github.com:kanglcn/sott.git ./sott
+cd ./sott
+pip install -e '.[dev]'
+```
 
 ## How to use
 
